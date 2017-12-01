@@ -1,0 +1,30 @@
+﻿  main.c
+c:\users\alex\documents\a3\a1skeleton\main.c(21): warning C4305: 'initializing': truncation from 'double' to 'const float'
+c:\users\alex\documents\a3\a1skeleton\main.c(333): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\alex\documents\a3\a1skeleton\main.c(476): warning C4244: 'function': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\alex\documents\a3\a1skeleton\main.c(492): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\alex\documents\a3\a1skeleton\main.c(493): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\alex\documents\a3\a1skeleton\main.c(530): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\alex\documents\a3\a1skeleton\main.c(540): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\alex\documents\a3\a1skeleton\main.c(549): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\alex\documents\a3\a1skeleton\main.c(550): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\alex\documents\a3\a1skeleton\main.c(552): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\alex\documents\a3\a1skeleton\main.c(561): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\alex\documents\a3\a1skeleton\main.c(570): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\alex\documents\a3\a1skeleton\main.c(571): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\alex\documents\a3\a1skeleton\main.c(573): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\alex\documents\a3\a1skeleton\main.c(582): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\alex\documents\a3\a1skeleton\main.c(591): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\alex\documents\a3\a1skeleton\main.c(592): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\alex\documents\a3\a1skeleton\main.c(594): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\alex\documents\a3\a1skeleton\main.c(603): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\alex\documents\a3\a1skeleton\main.c(612): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\alex\documents\a3\a1skeleton\main.c(613): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\alex\documents\a3\a1skeleton\main.c(615): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\alex\documents\a3\a1skeleton\main.c(634): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\alex\documents\a3\a1skeleton\main.c(644): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\alex\documents\a3\a1skeleton\main.c(777): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\alex\documents\a3\a1skeleton\main.c(778): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\alex\documents\a3\a1skeleton\main.c(785): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+c:\users\alex\documents\a3\a1skeleton\main.c(786): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  A1Skeleton.vcxproj -> C:\Users\Alex\Documents\a3\Debug\A1Skeleton.exe
